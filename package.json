@@ -36,8 +36,8 @@
     "heroku-postbuild": "tsc --project server/tsconfig.json && ng build"
   },
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
     "multer": "1.4.1",
     "path-framework": "^0.5.5",
     "pouchdb-adapter-memory": "6.3.4",
